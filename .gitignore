@@ -13,6 +13,7 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -22,3 +23,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+# Eclipse project files
+.project
+.classpath
+.settings
