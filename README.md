@@ -1,4 +1,4 @@
 # spring_sw2
-sw2 initial 
-[Serving Web Content with Spring MVC]
+initial \n
+[Serving Web Content with Spring MVC] \n
 [Accessing Data with JPA]
